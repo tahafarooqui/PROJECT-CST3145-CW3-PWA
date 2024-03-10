@@ -3,8 +3,8 @@ This Vue.js web application, developed by Taha Farooqui and hosted on Elastic Be
 
 ## Frontend (PWA) - Vue.js Application
 
-- **GitHub Repository:** [Vue.js App Repository](https://github.com/tahafarooqui/PROJECT-CST3145-CW3-Frontend)
-- **Live Application:** [Vue.js App on GitHub Pages](https://tahafarooqui.github.io/PROJECT-CST3145-CW3-Frontend/)
+- **GitHub Repository:** [Vue.js App Repository](https://github.com/tahafarooqui/PROJECT-CST3145-CW3-PWA/tree/main)
+- **Live Application:** [Vue.js App on GitHub Pages](https://tahafarooqui.github.io/PROJECT-CST3145-CW3-PWA/)
 
 ## Backend - Express.js Application
 
